@@ -9,7 +9,7 @@ Porque nunca sabes cuando vas a necesitar una buena frase... ¡Aquí tienes una 
 ## Sitio Web
 ---
 - Totalmente Responsive:
----
+
 ![Responsive1](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1611749199/proyectos/Breaking%20Bad/iphone_2_j3mjsy.png)
 ![Responsive2](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1611749199/proyectos/Breaking%20Bad/iphone_1_lf4fuy.png)
 ---
